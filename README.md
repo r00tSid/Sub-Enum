@@ -1,8 +1,5 @@
-Here’s a comprehensive README file for your subdomain enumeration tool. You can create a `README.md` file in your repository and copy the following content into it:
 
-```markdown
 # Subdomain Enumeration Tool
-
 ## Overview
 
 The Subdomain Enumeration Tool is a Python-based utility designed to identify subdomains of a specified domain using DNS lookups and certificate transparency logs from [crt.sh](https://crt.sh). This tool is useful for security researchers and penetration testers seeking to gather information about a target domain.
