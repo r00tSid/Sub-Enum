@@ -96,4 +96,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [crt.sh](https://crt.sh) for providing certificate transparency logs.
 - [dnspython](https://dnspython.org/) for DNS queries.
 - [aiohttp](https://docs.aiohttp.org/) for asynchronous HTTP requests.
-```
